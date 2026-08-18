@@ -1,0 +1,7 @@
+tracking_log.csv
+output_videos/
+videos/
+models/*.pt
+__pycache__/
+.ipynb_checkpoints/
+venv/
