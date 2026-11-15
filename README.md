@@ -37,7 +37,7 @@ Group53_CrowdFlowAI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Himavarnika/CrowdFlowAI.git
+git clone https://github.com/Sivateja998/CrowdFlowAI.git
 cd CrowdFlow
 ```
 
